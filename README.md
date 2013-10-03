@@ -1,4 +1,5 @@
-New Spinning Icon for iOS
+New Spinning Icon for iOS 
+<img width="25" height="25" src="spinner.gif"/>
 
 BASpinner *spinner = [[BASpinner alloc] initWithFrame:frame andColor:color1 andBackgroundColor:color2];
 
