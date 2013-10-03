@@ -5,9 +5,11 @@ BASpinner *spinner = [[BASpinner alloc] initWithFrame:frame andColor:color1 andB
 
 
 
-//Somewhere in your code
+Somewhere in your code:
+
 [spinner start];
 
 
-//When you are done
+When you are done:
+
 [spinner stop];
